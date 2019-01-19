@@ -1,4 +1,11 @@
 body {
 	text-align: center;
-	font-size: 2em;
+	font-size: 1.50em;
+	font-family: Staatliches, cursive;
+	color: #efe8ff;
+	background-color:#dbccfc;
+	background-image:url(background.jpg);  
+}
+p {
+	font-family: VT323, monospace;
 }
